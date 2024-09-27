@@ -55,7 +55,8 @@ Power BI Desktop
 CREATE DATABASE hr;
 ```
 ### 1) Create Table hr_data
-``` create table hr_data(
+``` SQL
+create table hr_data(
 id varchar(15) not null,
 first_name varchar(100),	
 last_name varchar(100),	
