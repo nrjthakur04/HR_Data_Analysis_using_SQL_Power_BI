@@ -121,14 +121,16 @@ FROM hr_data;
 
 - We have a birthdate and hire_date column where date data is given in format '9/14/1982' and '04-11-1994' for different rows. We'will fix this too and create a new column "age" and extract year to make use of this data solving upcomming queries.
 
-``` UPDATE hr_data
+``` SQL
+UPDATE hr_data
 SET birthdate = CASE
     WHEN birthdate LIKE '%/%' THEN DATE_FORMAT(STR_TO_DATE(birthdate, '%m/%d/%Y'), '%Y-%m-%d')
     WHEN birthdate LIKE '%-%' THEN DATE_FORMAT(STR_TO_DATE(birthdate, '%m-%d-%Y'), '%Y-%m-%d')
     ELSE NULL
 END;
 ```
-``` UPDATE hr_data
+``` SQL
+UPDATE hr_data
 SET hire_date = CASE
     WHEN hire_date LIKE '%/%' THEN DATE_FORMAT(STR_TO_DATE(hire_date, '%m/%d/%Y'), '%Y-%m-%d')
     WHEN hire_date LIKE '%-%' THEN DATE_FORMAT(STR_TO_DATE(hire_date, '%m-%d-%Y'), '%Y-%m-%d')
