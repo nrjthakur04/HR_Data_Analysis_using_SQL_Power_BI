@@ -87,7 +87,8 @@ FROM hr_data;
 The termdate was imported as varchar(100). This column contains termination dates, hence it needs to be converted to the date format.
 
 ####	Update date/time to date
-![format-termdate-1](https://github.com/kahethu/data/assets/27964625/463e86e0-8b1a-47c8-943e-f125bad98706)
+![termdate](https://github.com/user-attachments/assets/d28a3373-c483-4840-b8ec-e513193a8c63)
+
 
  Update termdate date/time to date
 - convert dates to yyyy-MM-dd
