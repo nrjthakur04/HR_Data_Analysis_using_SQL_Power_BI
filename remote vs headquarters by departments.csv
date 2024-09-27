@@ -1,0 +1,27 @@
+location,department,count
+Headquarters,Accounting,2033
+Headquarters,Auditing,32
+Headquarters,"Business Development",1022
+Headquarters,Engineering,4141
+Headquarters,"Human Resources",1103
+Headquarters,Legal,194
+Headquarters,Marketing,323
+Headquarters,"Product Management",395
+Headquarters,"Research and Development",643
+Headquarters,Sales,1115
+Headquarters,Services,1067
+Headquarters,Support,586
+Headquarters,Training,1056
+Remote,Accounting,714
+Remote,Auditing,8
+Remote,"Business Development",345
+Remote,Engineering,1360
+Remote,"Human Resources",395
+Remote,Legal,54
+Remote,Marketing,99
+Remote,"Product Management",132
+Remote,"Research and Development",229
+Remote,Sales,382
+Remote,Services,326
+Remote,Support,186
+Remote,Training,345
