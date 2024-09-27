@@ -14,11 +14,9 @@ This was done on MYSQL Workbench involving
 ## Data Visualization:
 Power BI Desktop 
 
-![hrreport1]
-(https://github.com/user-attachments/assets/109a92bc-d2a2-4961-97ff-ceaa40d07a6d)
+![hrreport1](https://github.com/user-attachments/assets/109a92bc-d2a2-4961-97ff-ceaa40d07a6d)
 
-![hrreport2]
-(https://github.com/user-attachments/assets/a5488cdc-f04e-4c72-8cd3-af8e786a21c2)
+![hrreport2](https://github.com/user-attachments/assets/a5488cdc-f04e-4c72-8cd3-af8e786a21c2)
 
 
 ## Exploratory Data Analysis
