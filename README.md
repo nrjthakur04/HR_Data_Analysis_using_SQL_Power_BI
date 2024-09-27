@@ -14,10 +14,11 @@ This was done on MYSQL Workbench involving
 ## Data Visualization:
 Power BI Desktop 
 
-![powerbi-1](https://github.com/kahethu/hr_data/assets/27964625/0d485a7e-3ddf-4a20-b158-b60fd8226f55)
+![hrreport1]
+(https://github.com/user-attachments/assets/109a92bc-d2a2-4961-97ff-ceaa40d07a6d)
 
-![powerbi-2](https://github.com/kahethu/hr_data/assets/27964625/6fc20ddb-fb5e-4349-bee3-7fe714737d60)
-
+![hrreport2]
+(https://github.com/user-attachments/assets/a5488cdc-f04e-4c72-8cd3-af8e786a21c2)
 
 
 ## Exploratory Data Analysis
